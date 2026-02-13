@@ -1,0 +1,24 @@
+# KiCad cache / local files
+fp-info-cache
+*.kicad_prl
+
+# Backups
+*.bak
+*.bck
+*.tmp
+*_autosave-*
+
+# Outputs (don’t version fab files)
+*.gbr
+*.gbrjob
+*.drl
+*.pos
+*.rpt
+*.svg
+*.pdf
+*.step
+*.wrl
+
+# OS junk
+.DS_Store
+Thumbs.db
