@@ -63,12 +63,7 @@
           "width": 0.25
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_overlap|129785952|54286510|4e1fa2a1-0219-4bcb-917c-83ddafbf02f9|92f2cda6-f12b-4042-8176-b1ebd577c5d7",
-          "its all good "
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -546,10 +541,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/home/matthewlyon/Projects/LEOS-stack-template/LEOS-stack-template-rd1/",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "LEOS-purpleboard.step",
       "svg": "",
       "vrml": ""
     },
