@@ -263,7 +263,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "2.1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -714,7 +714,7 @@
       {
         "filename": "LEOS-purpleboard.kicad_sch",
         "name": "LEOS-purpleboard",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "3703ddf2-8141-438d-86a8-1eaec9672d0d"
       }
     ],
     "used_designators": "",
@@ -723,7 +723,7 @@
   "sheets": [
     [
       "3703ddf2-8141-438d-86a8-1eaec9672d0d",
-      "Root"
+      "LEOS-purpleboard"
     ]
   ],
   "text_variables": {},
