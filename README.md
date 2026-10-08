@@ -19,8 +19,6 @@ Each sensor is a breakout board that plugs into a pin header. All four share the
 
 ## Connectors
 
-J1 (Board Input) and J6 (Board Output) are 4-pin JST XH connectors wired in parallel, so boards can be daisy-chained. They follow the STEMMA pinout, but use JST XH instead of JST PH to match the convention on other LEOS boards.
-
 | Pin | Signal |
 |-----|--------|
 | 1 | GND |
