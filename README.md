@@ -12,7 +12,7 @@ The Purpleboard holds four environmental and light sensor breakout boards on a s
 |-----|--------|----------|--------|---------------------|
 | J2 | BME688 | Temperature, humidity, pressure, gas | 7-pin | 0x77 |
 | J3 | LTR390 | UV and ambient light | 6-pin | 0x53 |
-| J4 | PMSA003I | Particulate matter (PM1.0, PM2.5, PM10) | 7-pin | 0x12 |
+| J4 | PMSA003I | Air Quality (PM1.0, PM2.5, PM10) | 7-pin | 0x12 |
 | J5 | TSL2591 | High-dynamic-range light | 6-pin | 0x29 |
 
 Each sensor is a breakout board that plugs into a pin header. All four share the same SCL and SDA lines, and their default addresses do not conflict.
