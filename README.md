@@ -2,7 +2,7 @@
 
 ![3D render of the LEOS Purpleboard](purpleboard3d.png)
 
-The Purpleboard is a sensor carrier board for VIP Lightning From the Edge of Space (LEOS). It holds four environmental and light sensor breakout boards on a shared I²C bus, powered at 3.3 V. The board has no microcontroller: it connects to a host board through a JST XH cable, and a second JST XH connector passes the I²C bus and power through to another board.
+The Purpleboard holds four environmental and light sensor breakout boards on a shared I²C bus, powered at 3.3 V. The board has no microcontroller: it connects to a host board through a JST XH cable, and a second JST XH connector passes the I²C bus and power through to another board.
 
 **Current revision:** 2.1
 
